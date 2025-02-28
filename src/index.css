@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+* {
+  @apply scroll-smooth scheme-dark border-zinc-900;
+}
+
+body {
+  @apply bg-zinc-950 text-white;
+}
